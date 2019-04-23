@@ -1,0 +1,13 @@
+{
+    "name": "nodestudio/composer",
+    "description": "Teste composer",
+    "require": {
+        "pagseguro/pagseguro-php-sdk": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Willian",
+            "email": "williansalesgabriel@hotmail.com"
+        }
+    ]
+}

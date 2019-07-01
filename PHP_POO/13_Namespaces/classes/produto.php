@@ -2,7 +2,7 @@
 namespace classes;
 
 class Produto{
-    public function mostrarDetales(){
-        echo "Detalhes do produto da pasta classes";
+    public function mostrarDetalhes(){
+        echo "Detalhes do Produto da pasta classes";
     }
 }

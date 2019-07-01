@@ -2,7 +2,7 @@
 namespace models;
 
 class Produto{
-    public function mostrarDetales(){
-        echo "Detalhes do produto da pasta models";
+    public function mostrarDetalhes(){
+        echo "Detalhes do Produto da pasta models";
     }
 }
